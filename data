@@ -1,0 +1,7 @@
+Student VladUpyrov
+{ "firstName": "Vlad",
+"lastName": "Upyrov",
+"studentId": "3332",
+"gender": "Male",
+"course": "3",
+"dorm": "101-12"};
