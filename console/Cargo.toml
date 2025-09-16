@@ -1,0 +1,14 @@
+[package]
+name = "console"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+lab = { path = "../lab" }
+
+[[bin]]
+name = "console"
+path = "main.rs"
+
+[lib]
+path = "lib.rs"
